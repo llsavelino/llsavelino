@@ -31,13 +31,6 @@ Aqui estão as tecnologias que domino e utilizo profissionalmente em meus projet
   </div>
 </div>
 
-<style>
-  a:hover img {
-    transform: scale(1.1);
-    filter: drop-shadow(0 6px 12px rgba(0,0,0,0.2)) !important;
-  }
-</style>
-
 ## 🎯 Áreas de Atuação  
 
 ### 🔧 Programação de Baixo Nível  
