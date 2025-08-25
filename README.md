@@ -53,12 +53,6 @@ Aqui estão as tecnologias que domino e utilizo profissionalmente em meus projet
         <a href="https://git-scm.com/" target="_blank" title="Git">
             <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="50" height="50">
         </a>
-        <a href="https://code.visualstudio.com/" target="_blank" title="VS Code">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="50" height="50">
-        </a>
-        <a href="https://visualstudio.microsoft.com/" target="_blank" title="Visual Studio">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" alt="Visual Studio" width="50" height="50">
-        </a>
         <a href="https://gin-gonic.com/" target="_blank" title="Gin Gonic">
             <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="Gin Gonic" width="50" height="50">
         </a>
