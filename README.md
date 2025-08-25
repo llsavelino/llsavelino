@@ -50,14 +50,8 @@ Aqui estão as tecnologias que domino e utilizo profissionalmente em meus projet
         <a href="https://dotnet.microsoft.com/" target="_blank" title=".NET">
             <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET" width="50" height="50">
         </a>
-        <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoNcG0ucHPUfYdEZ0PUxQn5Wn5WsPX1mfy0GFHrkYYKlvdLcSGwdXhoUM5Olfptdouvm0&usqp=CAU" target="_blank" title="Flask">
-            <img src="https://flask.palletsprojects.com/en/2.3.x/_images/flask-logo.png" alt="Flask" width="50" height="50">
-        </a>
         <a href="https://git-scm.com/" target="_blank" title="Git">
             <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="50" height="50">
-        </a>
-        <a href="https://www.svgrepo.com/download/303229/microsoft-sql-server-logo.svg" target="_blank" title="SQL Server">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_SQL_Server_Logo.svg" alt="SQL Server" width="50" height="50">
         </a>
         <a href="https://www.sqlite.org/" target="_blank" title="SQLite">
             <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="SQLite" width="50" height="50">
