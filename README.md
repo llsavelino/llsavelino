@@ -41,12 +41,6 @@ Aqui estão as tecnologias que domino e utilizo profissionalmente em meus projet
         <a href="https://stackoverflow.com/" target="_blank" title="Stack Overflow">
             <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="Stack Overflow" width="50" height="50">
         </a>
-        <a href="https://julialang.org/" target="_blank" title="Julia">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Julia_Programming_Language_Logo.svg" alt="Julia" width="50" height="50">
-        </a>
-        <a href="https://www.lua.org/" target="_blank" title="Lua">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="Lua" width="50" height="50">
-        </a>
         <a href="https://dotnet.microsoft.com/" target="_blank" title=".NET">
             <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET" width="50" height="50">
         </a>
