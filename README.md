@@ -41,15 +41,6 @@ Aqui estão as tecnologias que domino e utilizo profissionalmente em meus projet
         <a href="https://stackoverflow.com/" target="_blank" title="Stack Overflow">
             <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="Stack Overflow" width="50" height="50">
         </a>
-        <a href="https://dotnet.microsoft.com/" target="_blank" title=".NET">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET" width="50" height="50">
-        </a>
-        <a href="https://git-scm.com/" target="_blank" title="Git">
-            <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="50" height="50">
-        </a>
-        <a href="https://gin-gonic.com/" target="_blank" title="Gin Gonic">
-            <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="Gin Gonic" width="50" height="50">
-        </a>
     </div>
 </div>
 
