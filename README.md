@@ -1,7 +1,5 @@
 # 🚀 Stack de Desenvolvimento  
 
-Aqui estão as tecnologias que domino e utilizo profissionalmente em meus projetos:  
-
 <div align="center">
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 30px 0;">
         <!-- Tecnologias existentes -->
