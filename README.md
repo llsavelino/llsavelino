@@ -42,23 +42,21 @@
     </div>
 </div>
 °º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º
+
 ## 🎯 Áreas de Atuação  
 
 ### 🔧 Programação de Baixo Nível  
-- Desenvolvimento de drivers e sistemas operacionais  
-- Otimização de performance crítica  
+- Desenvolvimento de drivers e sistemas operacionais |:| Otimização de performance crítica  
 
 ### ⚙️ Sistemas Embarcados  
-- Firmware para dispositivos IoT  
-- Controle de hardware  
+- Firmware para dispositivos IoT |:| Controle de hardware  
 
 ### 🖥️ Backend  
-- APIs de alta performance  
-- Sistemas distribuídos  
+- APIs de alta performance |:| Sistemas distribuídos  
 
 ## 📫 Contato  
 
-Quer conversar sobre algum projeto ou tecnologia? Me mande uma mensagem!  
+- Quer conversar sobre algum projeto ou tecnologia? Me mande uma mensagem!  
 
 ✉️ [aves06914@gmail.com](mailto:aves06914@gmail.com)  | [savelino852@gmail.com](mailto:savelino852@gmail.com) 
 ---
