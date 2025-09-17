@@ -60,8 +60,8 @@
 ### 🖥️ Backend  
 - APIs de alta performance |:| Sistemas distribuídos |:| Microseviços |:| SQL Server & MySQL |:| Programação Paralela
 # ``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´
-## 📫 Contato  
 
+## 📫 Contato  
 - Quer conversar sobre algum projeto ou tecnologia? Me mande uma mensagem!  
 
 ✉️ [aves06914@gmail.com](mailto:aves06914@gmail.com)  | [savelino852@gmail.com](mailto:savelino852@gmail.com) 
