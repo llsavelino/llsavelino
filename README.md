@@ -52,14 +52,14 @@
 ## 🎯 Áreas de Atuação  
 
 ### 🔧 Programação de Baixo Nível  
-- Desenvolvimento de drivers e sistemas operacionais |:| Otimização de performance crítica  
-
+- Desenvolvimento de drivers e sistemas operacionais |:| Otimização de performance crítica |:| Registradores |:| ASM
+# ``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``
 ### ⚙️ Sistemas Embarcados  
-- Firmware para dispositivos IoT |:| Controle de hardware  
-
+- Firmware para dispositivos IoT |:| Controle de hardware |:| Microcontroladores
+# ``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``
 ### 🖥️ Backend  
-- APIs de alta performance |:| Sistemas distribuídos  
-
+- APIs de alta performance |:| Sistemas distribuídos |:| Microseviços |:| SQL Server & MySQL |:| Programação Paralela
+# ``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´´``´
 ## 📫 Contato  
 
 - Quer conversar sobre algum projeto ou tecnologia? Me mande uma mensagem!  
