@@ -42,6 +42,18 @@
         <a href="https://stackoverflow.com/" target="_blank" title="Stack Overflow">
             <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="Stack Overflow" width="50" height="50">
         </a>
+        <a href="https://www.docker.com/" target="_blank" title="Docker">
+            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Docker_logo_blue.svg/1920px-Docker_logo_blue.svg.png" alt="Docker" width="50" height="50">
+        </a>
+        <a href="https://www.microsoft.com/sql-server/" target="_blank" title="SQL Server">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Microsoft_SQL_Server_Logo.png" alt="SQL Server" width="50" height="50">
+        </a>
+        <a href="https://www.mongodb.com/" target="_blank" title="MongoDB">
+            <img src="https://upload.wikimedia.org/wikipedia/en/2/22/MongoDB_Logo.svg" alt="MongoDB" width="50" height="50">
+        </a>
+        <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_logo.svg" alt="PostgreSQL" width="50" height="50">
+        </a>
     </div>
 </div>
 
