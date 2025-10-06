@@ -53,7 +53,7 @@
             <img src="https://raw.githubusercontent.com/mongodb/docs-assets/master/assets/leaf.png" alt="MongoDB" width="50" height="50">
         </a>
         <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_logo.svg" alt="PostgreSQL" width="50" height="50">
+            <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="50" height="50">
         </a>
     </div>
 </div>
