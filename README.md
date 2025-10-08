@@ -3,7 +3,7 @@
     <h5><strong style="color: blue;">°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°</strong></h5>
 </div>
 <div align="center">
-    <h6><strong style="color: blue;">§ § Linguagens § §</strong></h6>
+    <h6><strong style="color: blue;">§ § ,.,.,.,.,.,.,.,.,,.,.,.,Linguagens,.,.,.,.,.,.,.,.,,.,.,., § §</strong></h6>
 </div>
 <div align="center">
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 30px 0;">
@@ -35,7 +35,7 @@
     </div>
 </div>
 <div align="center">
-    <h6><strong style="color: blue;">§ § Ferramentas § §</strong></h6>
+    <h6><strong style="color: blue;">§ § ,.,.,.,.,.,.,.,.,,.,.,.,Ferramentas,.,.,.,.,.,.,.,.,,.,.,., § §</strong></h6>
 </div>
 <div align="center">
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 30px 0;">
@@ -69,8 +69,9 @@
 <div align="center">
     <h5><strong style="color: blue;">°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°</strong></h5>
 </div>
-
-## 🎯 Áreas de Atuação  
+<div align="center">
+    <h5><strong style="color: blue;">🎯 "''"'''"""'''"'""''''"""'"'''""""'"'"Áreas de Atuação"''"'''"""'''"'""''''"""'"'''""""'"'"</strong></h5>
+</div>
 ### 🔧 "'" Programação de Baixo Nível "'" 
 - Desenvolvimento de drivers e sistemas operacionais |:| Otimização de performance crítica |:| Registradores |:| ASM
 ### ⚙️ `¨` Sistemas Embarcados `¨`  
