@@ -1,8 +1,9 @@
 # 🚀 Stack de Desenvolvimento  
 °º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°
 
-#### § Linguagens §
-
+<div align="center">
+    <h6><strong style="color: blue;">§ § Linguagens § §</strong></h6>
+</div>
 <div align="center">
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 30px 0;">
         <!-- Tecnologias existentes -->
@@ -32,9 +33,9 @@
         </a>
     </div>
 </div>
-
-#### § Ferramentas §
-
+<div align="center">
+    <h6><strong style="color: blue;">§ § Ferramentas § §</strong></h6>
+</div>
 <div align="center">
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 30px 0;">
         <!-- Tecnologias existentes -->
