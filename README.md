@@ -1,7 +1,7 @@
 # 🚀 Stack de Desenvolvimento  
 °º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°
 
-##
+# § Linguagens §
 
 <div align="center">
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 30px 0;">
@@ -33,7 +33,7 @@
     </div>
 </div>
 
-# 
+# § Ferramentas §
 
 <div align="center">
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 30px 0;">
@@ -65,18 +65,16 @@
     </div>
 </div>
 
-## 
-
 °º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°
 
 ## 🎯 Áreas de Atuação  
-### 🔧 Programação de Baixo Nível  
+### 🔧 "'" Programação de Baixo Nível "'" 
 - Desenvolvimento de drivers e sistemas operacionais |:| Otimização de performance crítica |:| Registradores |:| ASM
-### ⚙️ Sistemas Embarcados  
+### ⚙️ `¨` Sistemas Embarcados `¨`  
 - Firmware para dispositivos IoT |:| Controle de hardware |:| Microcontroladores
-### 🖥️ Backend  
+### 🖥️ !$! Backend !$!  
 - APIs de alta performance |:| Sistemas distribuídos |:| Microseviços |:| SQL Server & MySQL |:| Programação Paralela
-## 📫 Contato  
+## 📫 _~_ Contato _~_
 - Quer conversar sobre algum projeto ou tecnologia? Me mande uma mensagem!  
 
 ✉️ [aves06914@gmail.com](mailto:aves06914@gmail.com)  | [savelino852@gmail.com](mailto:savelino852@gmail.com) | avelleva707@gmail.com
