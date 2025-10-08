@@ -72,6 +72,9 @@
 <div align="center">
     <h5><strong style="color: blue;">🎯 "''"'''"""'''"'""''''"""'"'''""""'"'"Áreas de Atuação"''"'''"""'''"'""''''"""'"'''""""'"'"</strong></h5>
 </div>
+
+#
+
 ### 🔧 "'" Programação de Baixo Nível "'" 
 - Desenvolvimento de drivers e sistemas operacionais |:| Otimização de performance crítica |:| Registradores |:| ASM
 ### ⚙️ `¨` Sistemas Embarcados `¨`  
