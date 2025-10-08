@@ -30,6 +30,14 @@
         <a href="https://go.dev/" target="_blank" title="Go">
             <img src="https://go.dev/images/go-logo-blue.svg" alt="Go" width="50" height="50">
         </a>
+    </div>
+</div>
+
+# 
+
+<div align="center">
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 30px 0;">
+        <!-- Tecnologias existentes -->
         <a href="https://www.arduino.cc/" target="_blank" title="Arduino">
             <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="Arduino" width="50" height="50">
         </a>
