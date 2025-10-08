@@ -46,7 +46,7 @@
             <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="Docker" width="50" height="50">
         </a>
         <a href="https://www.microsoft.com/sql-server/" target="_blank" title="SQL Server">
-            <img src="https://learn.microsoft.com/en-us/sql/media/sql-server-logo.png" alt="SQL Server" width="50" height="50">
+            <img src="https://lirp.cdn-website.com/9e5fcf4a/dms3rep/multi/opt/SQL-Server-Logo-640w.jpg" alt="SQL Server" width="50" height="50">
         </a>
         <a href="https://www.mongodb.com/" target="_blank" title="MongoDB">
             <img src="https://www.mongodb.com/assets/images/global/leaf.png" alt="MongoDB" width="50" height="50">
