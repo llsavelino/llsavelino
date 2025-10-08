@@ -71,7 +71,7 @@
 </div>
 
 <div align="center">
-    <h4><strong style="color: blue;">🎯 "''"'''"""'''"'""''''"""'"'''""""'"'"Áreas de Atuação"''"'''"""'''"'""''''"""'"'''""""'"'"</strong></h4>
+    <h4><strong style="color: blue;">🎯 "''"'''"""'''"'""''''"""'"'''""""'"'"<p>Áreas de Atuação</p>"''"'''"""'''"'""''''"""'"'''""""'"'"</strong></h4>
 </div>
 
 ### 🔧 "'" Programação de Baixo Nível "'" 
