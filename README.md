@@ -1,6 +1,6 @@
-# 🚀 Stack de Desenvolvimento  
+# ♾️ Stack de Desenvolvimento  
 <div align="center">
-    <h5><strong style="color: blue;">°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°</strong></h5>
+    <h5><strong style="color: blue;">^^°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°^^</strong></h5>
 </div>
 <div align="center">
     <h6><strong style="color: blue;">§ § ,.,.,.,.,.,.,.,.,,.,.,.,Linguagens,.,.,.,.,.,.,.,.,,.,.,., § §</strong></h6>
@@ -67,22 +67,22 @@
     </div>
 </div>
 <div align="center">
-    <h5><strong style="color: blue;">°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°</strong></h5>
+    <h5><strong style="color: blue;">^^°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°^^</strong></h5>
 </div>
 
 <div align="center">
-    <h4><strong style="color: blue;">🎯 "''"'''"""'''"'""''''"""'"'''""""'"'"<p>Áreas de Atuação</p>"''"'''"""'''"'""''''"""'"'''""""'"'"</strong></h4>
+    <h4><strong style="color: blue;">"''"'''"""'''"'""''''"""'"'''""""'"'"<p>🎯 Áreas de Atuação</p>"''"'''"""'''"'""''''"""'"'''""""'"'"</strong></h4>
 </div>
 
 ### 🔧 "'" Programação de Baixo Nível "'" 
-- Desenvolvimento de drivers e sistemas operacionais |:| Otimização de performance crítica |:| Registradores |:| ASM
+- 🔹Desenvolvimento de drivers e sistemas operacionais |:| Otimização de performance crítica |:| Registradores |:| ASM
 ### ⚙️ `¨` Sistemas Embarcados `¨`  
-- Firmware para dispositivos IoT |:| Controle de hardware |:| Microcontroladores
+- 🔺Firmware para dispositivos IoT |:| Controle de hardware |:| Microcontroladores
 ### 🖥️ !$! Backend !$!  
-- APIs de alta performance |:| Sistemas distribuídos |:| Microseviços |:| SQL Server & MySQL |:| Programação Paralela
+- 🌐APIs de alta performance |:| Sistemas distribuídos |:| Microseviços |:| SQL Server & MySQL |:| Programação Paralela
 ## 📫 _~_ Contato _~_
-- Quer conversar sobre algum projeto ou tecnologia? Me mande uma mensagem!  
+-  Quer conversar sobre algum projeto ou tecnologia? Me mande uma mensagem!  
 
-✉️ [aves06914@gmail.com](mailto:aves06914@gmail.com)  | [savelino852@gmail.com](mailto:savelino852@gmail.com) | avelleva707@gmail.com
+✉️ [aves06914@gmail.com](mailto:aves06914@gmail.com)  >|< [savelino852@gmail.com](mailto:savelino852@gmail.com) >|< avelleva707@gmail.com
 ---
 <p align="center">__:[⊞]:__ Feito com 💙 por um apaixonado por tecnologia __:[⊞]:__</p>
