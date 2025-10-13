@@ -15,22 +15,22 @@
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png" alt="C" width="50" height="50">
         </a>
         <a href="https://dotnet.microsoft.com/" target="_blank" title="C#">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" width="50" height="50">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png" alt="C#" width="50" height="50">
         </a>
         <a href="https://www.java.com/" target="_blank" title="Java">
             <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="50" height="50">
         </a>
         <a href="https://ziglang.org/" target="_blank" title="Zig">
-            <img src="https://ziglang.org/img/zig-logo-dark.svg" alt="Zig" width="50" height="50">
+            <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/zig-programming-language-icon.png" alt="Zig" width="50" height="50">
         </a>
         <a href="https://www.rust-lang.org/" target="_blank" title="Rust">
-            <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="Rust" width="50" height="50">
+            <img src="https://e7.pngegg.com/pngimages/114/914/png-clipart-rust-programming-language-logo-machine-learning-haskell-crab-animals-cartoon.png" alt="Rust" width="50" height="50">
         </a>
         <a href="https://www.python.org/" target="_blank" title="Python">
-            <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" width="50" height="50">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" alt="Python" width="50" height="50">
         </a>
         <a href="https://go.dev/" target="_blank" title="Go">
-            <img src="https://go.dev/images/go-logo-blue.svg" alt="Go" width="50" height="50">
+            <img src="https://iconlogovector.com/uploads/images/2024/04/lg-6619d74e0c9e1-GO-Golang.webp" alt="Go" width="50" height="50">
         </a>
     </div>
 </div>
