@@ -81,6 +81,6 @@
 ## 📫 `Contato`
 -  Quer conversar sobre algum projeto ou tecnologia? Me mande uma mensagem!  
 
-✉️ `[aves06914@gmail.com](mailto:aves06914@gmail.com)  | [savelino852@gmail.com](mailto:savelino852@gmail.com) | avelleva707@gmail.com`
+#### ✉️ `[aves06914@gmail.com](mailto:aves06914@gmail.com)  | [savelino852@gmail.com](mailto:savelino852@gmail.com) | avelleva707@gmail.com`
 ---
 <p align="center">__:[⊞]:__ Feito com 💙 por um apaixonado por tecnologia __:[⊞]:__</p>
