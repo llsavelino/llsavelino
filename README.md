@@ -64,8 +64,6 @@
         <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL">
             <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="50" height="50">
         </a>
-        
-        <!-- Novas adições: IA Assistants -->
         <a href="https://chat.openai.com/" target="_blank" title="ChatGPT">
             <img src="https://static.vecteezy.com/system/resources/previews/021/608/790/non_2x/chatgpt-logo-chat-gpt-icon-on-black-background-free-vector.jpg" alt="ChatGPT" width="50" height="50">
         </a>
