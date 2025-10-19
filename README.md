@@ -21,7 +21,7 @@
             <img src="https://scoop-cms.s3-eu-west-1.amazonaws.com/55e853c7ca2f3a596c8b4568/java-mascot-min.png" alt="Java" width="50" height="50">
         </a>
         <a href="https://ziglang.org/" target="_blank" title="Zig">
-            <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/zig-programming-language-icon.png" alt="Zig" width="50" height="50">
+            <img src="https://external-preview.redd.it/y4-t25rhGrPV_cKLCxt3qNnO8fR_ciqZBJBF8nhclCs.jpg?width=1080&crop=smart&auto=webp&s=600773580c665cb37a933bd415ecd7f459efbd5f" alt="Zig" width="50" height="50">
         </a>
         <a href="https://www.rust-lang.org/" target="_blank" title="Rust">
             <img src="https://e7.pngegg.com/pngimages/114/914/png-clipart-rust-programming-language-logo-machine-learning-haskell-crab-animals-cartoon.png" alt="Rust" width="50" height="50">
@@ -53,7 +53,7 @@
             <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="Stack Overflow" width="50" height="50">
         </a>
         <a href="https://www.docker.com/" target="_blank" title="Docker">
-            <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="Docker" width="50" height="50">
+            <img src="https://miro.medium.com/1*SJryNEZi8mugN4guNayofw.png" alt="Docker" width="50" height="50">
         </a>
         <a href="https://www.microsoft.com/sql-server/" target="_blank" title="SQL Server">
             <img src="https://lirp.cdn-website.com/9e5fcf4a/dms3rep/multi/opt/SQL-Server-Logo-640w.jpg" alt="SQL Server" width="50" height="50">
