@@ -1,4 +1,4 @@
-<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/5c54f0a0-8a9f-4c02-88cc-1f4983f05084" /># `♾️ $tack de Desenvolvimento`  
+# `♾️ $tack de Desenvolvimento`  
 <div align="center">
     <h5><strong style="color: blue;">^^°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°^^</strong></h5>
 </div>
