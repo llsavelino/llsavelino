@@ -1,4 +1,4 @@
-# `♾️ $tack de Desenvolvimento`  
+<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/5c54f0a0-8a9f-4c02-88cc-1f4983f05084" /># `♾️ $tack de Desenvolvimento`  
 <div align="center">
     <h5><strong style="color: blue;">^^°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°^^</strong></h5>
 </div>
@@ -65,16 +65,16 @@
             <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="50" height="50">
         </a>
         <a href="https://chat.openai.com/" target="_blank" title="ChatGPT">
-            <img src="https://static.vecteezy.com/system/resources/previews/021/608/790/non_2x/chatgpt-logo-chat-gpt-icon-on-black-background-free-vector.jpg" alt="ChatGPT" width="50" height="50">
+            <img src="https://directorioias.com/wp-content/uploads/2023/03/ChatGPT-Logo.png" alt="ChatGPT" width="50" height="50">
         </a>
         <a href="https://www.deepseek.com/" target="_blank" title="DeepSeek">
-            <img src="https://global.discourse-cdn.com/business7/uploads/deepseek/original/1X/315dc9df29c3b8a6e70d7d5e6d0c5a9e2d01c9d2.png" alt="DeepSeek" width="50" height="50">
+            <img src="https://alice.dev/wp-content/uploads/2025/01/deepseek-ai-icon-seeklogo.png" alt="DeepSeek" width="50" height="50">
         </a>
         <a href="https://copilot.microsoft.com/" target="_blank" title="Microsoft Copilot">
-            <img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4YvxQ?ver=191a" alt="Microsoft Copilot" width="50" height="50">
+            <img src="https://teaching.utoronto.ca/wp-content/uploads/Microsoft_Copilot_Icon.svg.png" alt="Microsoft Copilot" width="50" height="50">
         </a>
         <a href="https://gemini.google.com/" target="_blank" title="Google Gemini">
-            <img src="https://fonts.gstatic.com/s/i/productlogos/googleg_gm_blue/v1/192px.svg" alt="Google Gemini" width="50" height="50">
+            <img src="https://logos-world.net/wp-content/uploads/2025/02/Google-Gemini-Logo.png" alt="Google Gemini" width="50" height="50">
         </a>
     </div>
 </div>
