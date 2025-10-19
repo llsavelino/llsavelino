@@ -18,7 +18,7 @@
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png" alt="C#" width="50" height="50">
         </a>
         <a href="https://www.java.com/" target="_blank" title="Java">
-            <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="50" height="50">
+            <img src="https://scoop-cms.s3-eu-west-1.amazonaws.com/55e853c7ca2f3a596c8b4568/java-mascot-min.png" alt="Java" width="50" height="50">
         </a>
         <a href="https://ziglang.org/" target="_blank" title="Zig">
             <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/zig-programming-language-icon.png" alt="Zig" width="50" height="50">
