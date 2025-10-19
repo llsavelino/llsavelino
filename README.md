@@ -64,6 +64,20 @@
         <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL">
             <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="50" height="50">
         </a>
+        
+        <!-- Novas adições: IA Assistants -->
+        <a href="https://chat.openai.com/" target="_blank" title="ChatGPT">
+            <img src="https://static.vecteezy.com/system/resources/previews/021/608/790/non_2x/chatgpt-logo-chat-gpt-icon-on-black-background-free-vector.jpg" alt="ChatGPT" width="50" height="50">
+        </a>
+        <a href="https://www.deepseek.com/" target="_blank" title="DeepSeek">
+            <img src="https://global.discourse-cdn.com/business7/uploads/deepseek/original/1X/315dc9df29c3b8a6e70d7d5e6d0c5a9e2d01c9d2.png" alt="DeepSeek" width="50" height="50">
+        </a>
+        <a href="https://copilot.microsoft.com/" target="_blank" title="Microsoft Copilot">
+            <img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4YvxQ?ver=191a" alt="Microsoft Copilot" width="50" height="50">
+        </a>
+        <a href="https://gemini.google.com/" target="_blank" title="Google Gemini">
+            <img src="https://fonts.gstatic.com/s/i/productlogos/googleg_gm_blue/v1/192px.svg" alt="Google Gemini" width="50" height="50">
+        </a>
     </div>
 </div>
 <div align="center">
