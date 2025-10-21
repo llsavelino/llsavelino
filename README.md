@@ -73,9 +73,6 @@
         <a href="https://copilot.microsoft.com/" target="_blank" title="Microsoft Copilot">
             <img src="https://teaching.utoronto.ca/wp-content/uploads/Microsoft_Copilot_Icon.svg.png" alt="Microsoft Copilot" width="50" height="50">
         </a>
-        <a href="https://gemini.google.com/" target="_blank" title="Google Gemini">
-            <img src="https://logos-world.net/wp-content/uploads/2025/02/Google-Gemini-Logo.png" alt="Google Gemini" width="50" height="50">
-        </a>
     </div>
 </div>
 <div align="center">
