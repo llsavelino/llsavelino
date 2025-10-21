@@ -64,14 +64,8 @@
         <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL">
             <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="50" height="50">
         </a>
-        <a href="https://chat.openai.com/" target="_blank" title="ChatGPT">
-            <img src="https://directorioias.com/wp-content/uploads/2023/03/ChatGPT-Logo.png" alt="ChatGPT" width="50" height="50">
-        </a>
         <a href="https://www.deepseek.com/" target="_blank" title="DeepSeek">
             <img src="https://alice.dev/wp-content/uploads/2025/01/deepseek-ai-icon-seeklogo.png" alt="DeepSeek" width="50" height="50">
-        </a>
-        <a href="https://copilot.microsoft.com/" target="_blank" title="Microsoft Copilot">
-            <img src="https://teaching.utoronto.ca/wp-content/uploads/Microsoft_Copilot_Icon.svg.png" alt="Microsoft Copilot" width="50" height="50">
         </a>
     </div>
 </div>
