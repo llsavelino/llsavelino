@@ -82,14 +82,14 @@
 <div align="center"><h4><strong style="color: blue;"><p>🎯 Áreas de Atuação</p></h4></div>
 
 ### 🔧 `Programação de Baixo Nível` 
-- 🔹Desenvolvimento de drivers e sistemas operacionais |:| Otimização de performance crítica |:| Registradores |:| ASM
+- 🔹Desenvolvimento de drivers e mini OS |:| Otimização de performance crítica |:| Controle de Registradores |:| ASM
 ### ⚙️ `Sistemas Embarcados`  
-- 🔺Firmware para dispositivos IoT |:| Controle de hardware |:| Microcontroladores
+- 🔺Firmware para dispositivos IoT |:| Controle de hardware |:| Microcontroladores |:| Sensores
 ### 🖥️ `Backend`  
-- 🌐APIs de alta performance |:| Sistemas distribuídos |:| Microseviços |:| SQL Server & MySQL |:| Programação Paralela
+- 🌐APIs de alta performance |:| Sistemas distribuídos |:| Microseviços & Conteiners |:| SQL & NoSQL |:| Programação async |:| Escalabilidade & Arquiteturas Limpas e destintas 
 ## 📫 `Contato`
 -  Quer conversar sobre algum projeto ou tecnologia? Me mande uma mensagem!  
 
 ✉️ [aves06914@gmail.com](mailto:aves06914@gmail.com)  | [savelino852@gmail.com](mailto:savelino852@gmail.com) | avelleva707@gmail.com
 ---
-<p align="center">__:[⊞]:__ Feito com 💙 por um apaixonado por tecnologia __:[⊞]:__</p>
+<p align="center">Feito com 💙 por um apaixonado por tecnologia</p>
