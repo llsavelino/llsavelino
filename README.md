@@ -84,7 +84,7 @@
 ## 🖥️ `Backend`  
 - 🌐High-performance APIs |:| Distributed Systems |:| Microservices and Containers
 - 🌐SQL & NoSQL |:| Async Programming |:| Scalability & Clean, Distinct Architectures
-### 📫 `Contato...` Quer conversar sobre algum projeto ou tecnologia? `Me mande uma mensagem!`  
+### 📫`Contact...` Want to talk about a project or technology? `Send me a message!`  
 ✉️ [aves06914@gmail.com](mailto:aves06914@gmail.com)|[savelino852@gmail.com](mailto:savelino852@gmail.com)|avelleva707@gmail.com
 ---
 <p align="center">Made with 💙 by a technology enthusiast</p>
