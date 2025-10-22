@@ -73,12 +73,12 @@
     <h5><strong style="color: blue;">°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°</strong></h5>
 </div>
 
-<div align="center"><h4><strong style="color: blue;"><p>🎯 Áreas de Atuação</p></h4></div>
+<div align="center"><h4><strong style="color: blue;"><p>🎯 Areas of Activity</p></h4></div>
 
-## 🔧 `Programação de Baixo Nível` 
+## 🔧 `Low Level Programming` 
 - 🔹Desenvolvimento de drivers e mini OS |:| Otimização de performance crítica
 - 🔹 Controle de Registradores |:| ASM
-## ⚙️ `Sistemas Embarcados`  
+## ⚙️ `Embedded Systems`  
 - 🔺Firmware para dispositivos IoT |:| Controle de hardware
 - 🔺Microcontroladores |:| Sensores
 ## 🖥️ `Backend`  
