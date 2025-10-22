@@ -21,7 +21,7 @@
             <img src="https://scoop-cms.s3-eu-west-1.amazonaws.com/55e853c7ca2f3a596c8b4568/java-mascot-min.png" alt="Java" width="50" height="50">
         </a>
         <a href="https://ziglang.org/" target="_blank" title="Zig">
-            <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/ziglang_logo_icon_170660.png" alt="Zig" width="50" height="50">
+            <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/ziglang_logo_icon_170660.png" alt="Zig" width="40" height="40">
         </a>
         <a href="https://www.rust-lang.org/" target="_blank" title="Rust">
             <img src="https://www.rust-lang.org/static/images/wasm-ferris.png" alt="Rust" width="50" height="50">
