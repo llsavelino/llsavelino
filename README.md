@@ -1,9 +1,9 @@
-# `♾️Development $tack`  
+# `[🔋Development Stack]`  
 <div align="center">
     <h5><strong style="color: blue;">^^°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°^^</strong></h5>
 </div>
 <div align="center">
-    <h6><strong style="color: blue;">§ § ,.,.,.,.,.,.,.,.,,.,.,.,Linguagens,.,.,.,.,.,.,.,.,,.,.,., § §</strong></h6>
+    <h4><strong style="color: blue;">Langs</strong></h4>
 </div>
 <div align="center">
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 30px 0;">
@@ -35,7 +35,7 @@
     </div>
 </div>
 <div align="center">
-    <h6><strong style="color: blue;">§ § ,.,.,.,.,.,.,.,.,,.,.,.,Ferramentas,.,.,.,.,.,.,.,.,,.,.,., § §</strong></h6>
+    <h4><strong style="color: blue;">Tools</strong></h4>
 </div>
 <div align="center">
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 30px 0;">
