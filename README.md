@@ -9,13 +9,13 @@
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 30px 0;">
         <!-- Tecnologias existentes -->
         <a href="https://isocpp.org/" target="_blank" title="C++">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="50" height="50">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="40" height="40">
         </a>
         <a href="https://www.iso.org/standard/74528.html" target="_blank" title="C">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png" alt="C" width="50" height="50">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png" alt="C" width="40" height="40">
         </a>
         <a href="https://dotnet.microsoft.com/" target="_blank" title="C#">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png" alt="C#" width="50" height="50">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png" alt="C#" width="40" height="40">
         </a>
         <a href="https://www.java.com/" target="_blank" title="Java">
             <img src="https://scoop-cms.s3-eu-west-1.amazonaws.com/55e853c7ca2f3a596c8b4568/java-mascot-min.png" alt="Java" width="50" height="50">
