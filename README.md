@@ -68,9 +68,6 @@
             <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="30" height="30">
         </a>
     </div>
-    <a href="" target="_blank" title="ASM">
-            <img src="https://mohammadijoo.ir/image/Assembly-logo.png" alt="ASM" width="40" height="40">
-    </a>
 </div>
 <div align="center">
     <h5><strong style="color: blue;">°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°º°</strong></h5>
