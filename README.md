@@ -30,7 +30,7 @@
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" alt="Python" width="40" height="40">
         </a>
         <a href="https://go.dev/" target="_blank" title="Go">
-            <img src="https://iconlogovector.com/uploads/images/2024/04/lg-6619d74e0c9e1-GO-Golang.webp" alt="Go" width="50" height="50">
+            <img src="https://support.discord.com/hc/user_images/w3-GkZneLZmfg6odFGLqoQ.png" alt="Go" width="50" height="50">
         </a>
     </div>
 </div>
