@@ -21,13 +21,13 @@
             <img src="https://scoop-cms.s3-eu-west-1.amazonaws.com/55e853c7ca2f3a596c8b4568/java-mascot-min.png" alt="Java" width="50" height="50">
         </a>
         <a href="https://ziglang.org/" target="_blank" title="Zig">
-            <img src="https://external-preview.redd.it/y4-t25rhGrPV_cKLCxt3qNnO8fR_ciqZBJBF8nhclCs.jpg?width=1080&crop=smart&auto=webp&s=600773580c665cb37a933bd415ecd7f459efbd5f" alt="Zig" width="50" height="50">
+            <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/ziglang_logo_icon_170660.png" alt="Zig" width="50" height="50">
         </a>
         <a href="https://www.rust-lang.org/" target="_blank" title="Rust">
-            <img src="https://e7.pngegg.com/pngimages/114/914/png-clipart-rust-programming-language-logo-machine-learning-haskell-crab-animals-cartoon.png" alt="Rust" width="50" height="50">
+            <img src="https://www.rust-lang.org/static/images/wasm-ferris.png" alt="Rust" width="50" height="50">
         </a>
         <a href="https://www.python.org/" target="_blank" title="Python">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" alt="Python" width="50" height="50">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" alt="Python" width="40" height="40">
         </a>
         <a href="https://go.dev/" target="_blank" title="Go">
             <img src="https://iconlogovector.com/uploads/images/2024/04/lg-6619d74e0c9e1-GO-Golang.webp" alt="Go" width="50" height="50">
