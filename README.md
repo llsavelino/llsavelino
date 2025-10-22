@@ -76,15 +76,15 @@
 <div align="center"><h4><strong style="color: blue;"><p>🎯 Areas of Activity</p></h4></div>
 
 ## 🔧 `Low Level Programming` 
-- 🔹Desenvolvimento de drivers e mini OS |:| Otimização de performance crítica
-- 🔹 Controle de Registradores |:| ASM
+- 🔹Driver and mini OS development |:| Critical performance optimization
+- 🔹 Register control |:| ASM
 ## ⚙️ `Embedded Systems`  
-- 🔺Firmware para dispositivos IoT |:| Controle de hardware
-- 🔺Microcontroladores |:| Sensores
+- 🔺Firmware for IoT devices |:| Hardware control
+- 🔺Microcontrollers |:| Sensors
 ## 🖥️ `Backend`  
-- 🌐APIs de alta performance |:| Sistemas distribuídos |:| Microseviços & Conteiners
-- 🌐SQL & NoSQL |:| Programação async |:| Escalabilidade & Arquiteturas Limpas e destintas
+- 🌐High-performance APIs |:| Distributed Systems |:| Microservices and Containers
+- 🌐SQL & NoSQL |:| Async Programming |:| Scalability & Clean, Distinct Architectures
 ### 📫 `Contato...` Quer conversar sobre algum projeto ou tecnologia? `Me mande uma mensagem!`  
 ✉️ [aves06914@gmail.com](mailto:aves06914@gmail.com)|[savelino852@gmail.com](mailto:savelino852@gmail.com)|avelleva707@gmail.com
 ---
-<p align="center">Feito com 💙 por um apaixonado por tecnologia</p>
+<p align="center">Made with 💙 by a technology enthusiast</p>
