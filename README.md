@@ -75,31 +75,54 @@
 
 <div align="center"><h4><strong style="color: blue;"><p>🎯 Areas of Activity</p></h4></div>
 
-## 🔧 `Low Level Programming` 
-- 🔹 Driver and mini OS development
-- 🔹 Critical performance optimization
-- 🔹 Register control |:| ASM
-## ⚙️ `Embedded Systems`  
-- 🔺 Firmware for IoT devices
-- 🔺 Hardware control
-- 🔺 Microcontrollers |:| Sensors
-## 🖥️ `Backend`  
-- 🌐 High-performance APIs |:| Distributed Systems |:| Microservices and Containers
-- 🌐 SQL & NoSQL |:| Async Programming |:| Scalability & Clean, Distinct Architectures
-## 🌱 Agricultural Programming  
-- 🌾 Automation for irrigation systems |:| Climate control |:| Crop monitoring  
-- 🌾 Integration of sensors for soil, humidity, and temperature  
-- 🌾 Embedded systems for smart farming |:| IoT in agriculture  
-## 🏭 Industrial Programming  
-- 🛠️ PLC programming |:| SCADA systems |:| HMI interfaces  
-- 🛠️ Industrial robotics |:| Production line optimization  
-- 🛠️ Machine-to-machine communication |:| Real-time monitoring systems  
-## ⚙️ Automation  
-- 🤖 Process automation for agricultural and industrial environments  
-- 🤖 Sensor and actuator integration |:| Control logic development  
-- 🤖 Data acquisition and remote control systems |:| Edge computing for automation  
+## 🔧 `Low Level Programming`  
+- 🔹 Development of drivers and minimalist operating systems  
+- 🔹 Critical performance optimization for hardware-level tasks  
+- 🔹 Direct register manipulation |:| Assembly (ASM) expertise  
 
-### 📫 `Contact...` Want to talk about a project or technology? `Send me a message!`  
-✉️ [aves06914@gmail.com](mailto:aves06914@gmail.com) | [savelino852@gmail.com](mailto:savelino852@gmail.com) | avelleva707@gmail.com
+---
+
+## ⚙️ `Embedded Systems`  
+- 🔺 Firmware engineering for IoT and edge devices  
+- 🔺 Precise hardware control and real-time responsiveness  
+- 🔺 Microcontroller programming |:| Sensor integration and data acquisition  
+
+---
+
+## 🖥️ `Backend Development`  
+- 🌐 High-performance APIs |:| Distributed systems
+- 🌐 Microservices and container orchestration
+- 🌐 SQL & NoSQL databases |:| Asynchronous programming
+- 🌐 Scalable and clean architecture design  
+
+---
+
+## 🌱 `Agricultural Programming`  
+- 🌾 Smart irrigation systems |:| Climate automation |:| Crop health monitoring  
+- 🌾 Sensor networks for soil, humidity, and temperature analysis  
+- 🌾 IoT-based solutions for precision agriculture and farm management  
+
+---
+
+## 🏭 `Industrial Programming`  
+- 🛠️ PLC programming |:| SCADA integration |:| HMI interface development  
+- 🛠️ Industrial robotics |:| Production line automation and optimization  
+- 🛠️ Machine-to-machine (M2M) communication |:| Real-time control systems  
+
+---
+
+## ⚙️ `Automation Engineering`  
+- 🤖 End-to-end automation for agricultural and industrial environments  
+- 🤖 Sensor and actuator orchestration |:| Control logic and feedback systems  
+- 🤖 Remote monitoring |:| Edge computing for autonomous decision-making  
+
+---
+
+### 📫 `Contact`  
+Want to talk about a project or technology? **Send me a message!**  
+✉️ [aves06914@gmail.com](mailto:aves06914@gmail.com)  
+✉️ [savelino852@gmail.com](mailto:savelino852@gmail.com)  
+✉️ [avelleva707@gmail.com](mailto:avelleva707@gmail.com)
+
 ---
 <p align="center">Made with 💙 by a technology enthusiast</p>
