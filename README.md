@@ -76,14 +76,29 @@
 <div align="center"><h4><strong style="color: blue;"><p>🎯 Areas of Activity</p></h4></div>
 
 ## 🔧 `Low Level Programming` 
-- 🔹Driver and mini OS development |:| Critical performance optimization
+- 🔹 Driver and mini OS development
+- 🔹 Critical performance optimization
 - 🔹 Register control |:| ASM
 ## ⚙️ `Embedded Systems`  
-- 🔺Firmware for IoT devices |:| Hardware control
-- 🔺Microcontrollers |:| Sensors
+- 🔺 Firmware for IoT devices
+- 🔺 Hardware control
+- 🔺 Microcontrollers |:| Sensors
 ## 🖥️ `Backend`  
-- 🌐High-performance APIs |:| Distributed Systems |:| Microservices and Containers
-- 🌐SQL & NoSQL |:| Async Programming |:| Scalability & Clean, Distinct Architectures
+- 🌐 High-performance APIs |:| Distributed Systems |:| Microservices and Containers
+- 🌐 SQL & NoSQL |:| Async Programming |:| Scalability & Clean, Distinct Architectures
+## 🌱 Agricultural Programming  
+- 🌾 Automation for irrigation systems |:| Climate control |:| Crop monitoring  
+- 🌾 Integration of sensors for soil, humidity, and temperature  
+- 🌾 Embedded systems for smart farming |:| IoT in agriculture  
+## 🏭 Industrial Programming  
+- 🛠️ PLC programming |:| SCADA systems |:| HMI interfaces  
+- 🛠️ Industrial robotics |:| Production line optimization  
+- 🛠️ Machine-to-machine communication |:| Real-time monitoring systems  
+## ⚙️ Automation  
+- 🤖 Process automation for agricultural and industrial environments  
+- 🤖 Sensor and actuator integration |:| Control logic development  
+- 🤖 Data acquisition and remote control systems |:| Edge computing for automation  
+
 ### 📫 `Contact...` Want to talk about a project or technology? `Send me a message!`  
 ✉️ [aves06914@gmail.com](mailto:aves06914@gmail.com) | [savelino852@gmail.com](mailto:savelino852@gmail.com) | avelleva707@gmail.com
 ---
