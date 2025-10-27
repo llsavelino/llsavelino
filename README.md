@@ -120,9 +120,8 @@
 
 ### 📫 `Contact`  
 Want to talk about a project or technology? **Send me a message!**  
-✉️ [aves06914@gmail.com](mailto:aves06914@gmail.com)  
-✉️ [savelino852@gmail.com](mailto:savelino852@gmail.com)  
-✉️ [avelleva707@gmail.com](mailto:avelleva707@gmail.com)
+✉️ [aves06914@gmail.com](mailto:aves06914@gmail.com) | [savelino852@gmail.com](mailto:savelino852@gmail.com) | [avelleva707@gmail.com](mailto:avelleva707@gmail.com)
 
 ---
-<p align="center">Made with 💙 by a technology enthusiast</p>
+<h2 align="center">Made with 💙 by a technology enthusiast</h2>
+<p align="center">No no no frontend, I hate frontend 🤡</p>
