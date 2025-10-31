@@ -1,10 +1,4 @@
-  <div align="center">
-    <h2><strong style="color: blue;">🔋Development Stack</strong></h2>
-</div>
-<div align="center">
-    <h4><strong style="color: blue;">Langs</strong></h4>
-</div>
-
+# 🔋`Development Stack`
 [![Langs & Dev utils](https://skillicons.dev/icons?i=bash,py,mysql,github,vscode,cpp,cs,c,zig,java,go,rust,assembly)](https://skillicons.dev)
 
 <div align="center">
