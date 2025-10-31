@@ -68,6 +68,13 @@
     </div>
 </div>
 
+<div align="center">
+  <a href="https://github.com/llsavelino">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llsavelino&theme=dracula&hide_border=true&layout=compact"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=llsavelino&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=true&show_owner=true"/>
+  </a>
+</div>
+
 <div align="center"><h4><strong style="color: blue;"><p>🎯 Areas of Activity</p></h4></div>
 
 ## 🔧 `Low Level Programming`  
