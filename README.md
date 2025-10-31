@@ -78,8 +78,6 @@
   </a>
 </div>
 
----
-
 <div align="center"><h4><strong style="color: blue;"><p>🎯 Areas of Activity</p></h4></div>
 
 ## 🔧 `Low Level Programming`  
