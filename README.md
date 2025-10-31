@@ -78,6 +78,24 @@
   </a>
 </div>
 
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b378d1b7-2281-40cb-a4c5-a4339d4179f4" alt="banner-roxo"/>
+</p>
+
+<!-- Estatísticas -->
+<div align="center">
+  <a href="https://github.com/llsavelino">
+    <img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=llsavelino&theme=radical&mode=weekly" />
+  </a>
+</div>
+
+<!-- Snake animation -->
+<div align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</div>
+
+
 <div align="center"><h4><strong style="color: blue;"><p>🎯 Areas of Activity</p></h4></div>
 
 ## 🔧 `Low Level Programming`  
