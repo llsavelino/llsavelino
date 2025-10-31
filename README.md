@@ -1,40 +1,12 @@
-[![My Skills](https://skillicons.dev/icons?i=bash,js,py,mysql,ts,linux,github,vscode,redhat,cpp,cs,c,zig,java,go,rust,assembly)](https://skillicons.dev)
- 
- <div align="center">
+  <div align="center">
     <h2><strong style="color: blue;">🔋Development Stack</strong></h2>
 </div>
 <div align="center">
     <h4><strong style="color: blue;">Langs</strong></h4>
 </div>
-<div align="center">
-    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 30px 0;">
-        <!-- Tecnologias existentes -->
-        <a href="https://isocpp.org/" target="_blank" title="C++">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="40" height="40">
-        </a>
-        <a href="https://www.iso.org/standard/74528.html" target="_blank" title="C">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png" alt="C" width="40" height="40">
-        </a>
-        <a href="https://dotnet.microsoft.com/" target="_blank" title="C#">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png" alt="C#" width="40" height="40">
-        </a>
-        <a href="https://www.java.com/" target="_blank" title="Java">
-            <img src="https://scoop-cms.s3-eu-west-1.amazonaws.com/55e853c7ca2f3a596c8b4568/java-mascot-min.png" alt="Java" width="50" height="50">
-        </a>
-        <a href="https://ziglang.org/" target="_blank" title="Zig">
-            <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/ziglang_logo_icon_170660.png" alt="Zig" width="40" height="40">
-        </a>
-        <a href="https://www.rust-lang.org/" target="_blank" title="Rust">
-            <img src="https://www.rust-lang.org/static/images/wasm-ferris.png" alt="Rust" width="50" height="50">
-        </a>
-        <a href="https://www.python.org/" target="_blank" title="Python">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" alt="Python" width="40" height="40">
-        </a>
-        <a href="https://go.dev/" target="_blank" title="Go">
-            <img src="https://golang.halfiisland.com/logo.png" alt="Go" width="50" height="50">
-        </a>
-    </div>
-</div>
+
+[![Langs & Dev utils](https://skillicons.dev/icons?i=bash,py,mysql,github,vscode,cpp,cs,c,zig,java,go,rust,assembly)](https://skillicons.dev)
+
 <div align="center">
     <h4><strong style="color: blue;">Tools</strong></h4>
 </div>
