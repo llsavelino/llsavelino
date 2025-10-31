@@ -78,11 +78,6 @@
   </a>
 </div>
 
-<!-- Banner -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/b378d1b7-2281-40cb-a4c5-a4339d4179f4" alt="banner-roxo"/>
-</p>
-
 <!-- Estatísticas -->
 <div align="center">
   <a href="https://github.com/llsavelino">
