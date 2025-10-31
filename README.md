@@ -1,6 +1,5 @@
 # 🔋`Development Stack`
-[![Langs & Dev utils](https://skillicons.dev/icons?i=bash,py,mysql,github,vscode,cpp,cs,c,zig,java,go,rust,assembly)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=bash,js,py,mysql,ts,linux,github,vscode,redhat,cpp,cs,c,zig,java,go,rust,assembly,mongodb,mssql,postgresql,docker,arduino,raspi)](https://skillicons.dev)
+[![Langs & Dev utils](https://skillicons.dev/icons?i=bash,py,mysql,github,vscode,cpp,cs,c,zig,java,go,rust,assembly,,mongodb,postgresql,docker,arduino,raspi)](https://skillicons.dev)
 
 <div align="center">
     <h4><strong style="color: blue;">Tools</strong></h4>
