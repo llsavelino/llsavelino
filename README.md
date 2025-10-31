@@ -33,6 +33,7 @@
         </a>
     </div>
 </div>
+[![My Skills](https://skillicons.dev/icons?i=bash,js,py,mysql,ts,linux,github,vscode,redhat,cpp,cs,c,zig,java,go,rust,assembly)](https://skillicons.dev)
 <div align="center">
     <h4><strong style="color: blue;">Tools</strong></h4>
 </div>
