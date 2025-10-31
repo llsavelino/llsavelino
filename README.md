@@ -79,13 +79,6 @@
   </a>
 </div>
 
-<!-- Estatísticas -->
-<div align="center">
-  <a href="https://github.com/llsavelino">
-    <img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=llsavelino&theme=radical&mode=weekly" />
-  </a>
-</div>
-
 <!-- Snake animation -->
 <div align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
@@ -143,4 +136,10 @@ Want to talk about a project or technology? **Send me a message!**
 
 ---
 <h2 align="center">Made with 💙 by a technology enthusiast</h2>
-<p align="center">No no no frontend, I hate frontend 🤡</p>
+
+<!-- Estatísticas -->
+<div align="center">
+  <a href="https://github.com/llsavelino">
+    <img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=llsavelino&theme=radical&mode=weekly" />
+  </a>
+</div>
