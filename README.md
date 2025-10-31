@@ -1,5 +1,6 @@
-# `'"' 🔋Development Stack '"'`  
- 
+ <div align="center">
+    <h2><strong style="color: blue;">🔋Development Stack</strong></h2>
+</div>
 <div align="center">
     <h4><strong style="color: blue;">Langs</strong></h4>
 </div>
