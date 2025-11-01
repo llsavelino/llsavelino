@@ -5,10 +5,8 @@
 ---
 
 <div align="center">
-    <h3><strong style="color: blue;">Dashboard</strong></h3>
   <a href="https://github.com/llsavelino">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llsavelino&theme=dracula&hide_border=true&layout=compact"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=llsavelino&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=true&show_owner=true"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llsavelino&theme=dracula&hide_border=true&layout=compact"/>
   </a>
 </div>
 
@@ -62,6 +60,13 @@
 - 🤖 Remote monitoring |:| Edge computing for autonomous decision-making  
 
 ---
+
+<div align="center">
+    <h3><strong style="color: blue;">Dashboard</strong></h3>
+  <a href="https://github.com/llsavelino">
+    <img height="230em" src="https://github-readme-stats.vercel.app/api?username=llsavelino&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=true&show_owner=true"/>
+  </a>
+</div>
 
 ### 📫 `Contact`  
 Want to talk about a project or technology? **Send me a message!**  
