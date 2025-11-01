@@ -77,6 +77,6 @@ Want to talk about a project or technology? **Send me a message!**
 <!-- Estatísticas -->
 <div align="center">
   <a href="https://github.com/llsavelino">
-    <img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=llsavelino&theme=radical&mode=weekly" />
+    <img width="35%" src="https://github-readme-streak-stats.herokuapp.com?user=llsavelino&theme=radical&mode=weekly" />
   </a>
 </div>
