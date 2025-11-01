@@ -62,9 +62,8 @@
 ---
 
 <div align="center">
-    <h3><strong style="color: blue;">Dashboard</strong></h3>
   <a href="https://github.com/llsavelino">
-    <img height="230em" src="https://github-readme-stats.vercel.app/api?username=llsavelino&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=true&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=llsavelino&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=true&show_owner=true"/>
   </a>
 </div>
 
