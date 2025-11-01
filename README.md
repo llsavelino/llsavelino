@@ -1,6 +1,6 @@
 # `🔋Development Stack`
 
-[![Langs & Dev utils](https://skillicons.dev/icons?i=py,mysql,github,vscode,cpp,cs,c,zig,java,go,rust,mongodb,postgresql,docker,arduino,postman,git,gmail,grafana,powershell,rabbitmq,raspberrypi,redis,stackoverflow,sqlite,vscode,visualstudio,discord)](https://skillicons.dev)
+[![Langs & Dev utils](https://skillicons.dev/icons?i=py,mysql,github,vscode,cpp,cs,c,zig,java,go,rust,mongodb,postgresql,docker,arduino,postman,git,gmail,grafana,powershell,rabbitmq,raspberrypi,redis,stackoverflow,sqlite,vscode,visualstudio,discord,prometheus,notion)](https://skillicons.dev)
 
 ---
 
