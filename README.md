@@ -1,29 +1,6 @@
-# 🔋`Development Stack`
-[![Langs & Dev utils](https://skillicons.dev/icons?i=py,mysql,github,vscode,cpp,cs,c,zig,java,go,rust,mongodb,postgresql,docker,arduino,raspi)](https://skillicons.dev)
+# `🔋Development Stack`
 
-<div align="center">
-    <h4><strong style="color: blue;">Tools</strong></h4>
-</div>
-<div align="center">
-    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 30px 0;">
-        <!-- Tecnologias existentes -->
-        <a href="https://www.raspberrypi.org/" target="_blank" title="Raspberry Pi">
-            <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Raspberry_Pi_Logo.svg/1920px-Raspberry_Pi_Logo.svg.png" alt="Raspberry Pi" width="30" height="30">
-        </a>
-         <a href="https://www.deepseek.com/" target="_blank" title="DeepSeek">
-            <img src="https://alice.dev/wp-content/uploads/2025/01/deepseek-ai-icon-seeklogo.png" alt="DeepSeek" width="30" height="30">
-        </a>
-        <a href="https://www.linux.org/" target="_blank" title="Linux">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux" width="30" height="30">
-        </a>
-        <a href="https://stackoverflow.com/" target="_blank" title="Stack Overflow">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="Stack Overflow" width="30" height="30">
-        </a>
-        <a href="https://www.microsoft.com/sql-server/" target="_blank" title="SQL Server">
-            <img src="https://lirp.cdn-website.com/9e5fcf4a/dms3rep/multi/opt/SQL-Server-Logo-640w.jpg" alt="SQL Server" width="30" height="30">
-        </a>
-    </div>
-</div>
+[![Langs & Dev utils](https://skillicons.dev/icons?i=py,mysql,github,vscode,cpp,cs,c,zig,java,go,rust,mongodb,postgresql,docker,arduino,postman,git,gmail,grafana,powershell,rabbitmq,raspberrypi,redis,stackoverflow,sqlite,vscode,visualstudio,discord)](https://skillicons.dev)
 
 ---
 
