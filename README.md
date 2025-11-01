@@ -7,9 +7,6 @@
 <div align="center">
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 30px 0;">
         <!-- Tecnologias existentes -->
-        <a href="https://www.arduino.cc/" target="_blank" title="Arduino">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" alt="Arduino" width="30" height="30">
-        </a>
         <a href="https://www.raspberrypi.org/" target="_blank" title="Raspberry Pi">
             <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Raspberry_Pi_Logo.svg/1920px-Raspberry_Pi_Logo.svg.png" alt="Raspberry Pi" width="30" height="30">
         </a>
@@ -22,17 +19,8 @@
         <a href="https://stackoverflow.com/" target="_blank" title="Stack Overflow">
             <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="Stack Overflow" width="30" height="30">
         </a>
-        <a href="https://www.docker.com/" target="_blank" title="Docker">
-            <img src="https://miro.medium.com/1*SJryNEZi8mugN4guNayofw.png" alt="Docker" width="30" height="30">
-        </a>
         <a href="https://www.microsoft.com/sql-server/" target="_blank" title="SQL Server">
             <img src="https://lirp.cdn-website.com/9e5fcf4a/dms3rep/multi/opt/SQL-Server-Logo-640w.jpg" alt="SQL Server" width="30" height="30">
-        </a>
-        <a href="https://www.mongodb.com/" target="_blank" title="MongoDB">
-            <img src="https://www.mongodb.com/assets/images/global/leaf.png" alt="MongoDB" width="30" height="30">
-        </a>
-        <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL">
-            <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="30" height="30">
         </a>
     </div>
 </div>
