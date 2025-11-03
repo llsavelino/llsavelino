@@ -1,5 +1,4 @@
 # `🔋Development Stack`
----
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,mysql,github,cmake,cpp,cs,c,zig,java,go,rust,mongodb,postgresql,docker,arduino,postman,git,gmail,grafana,powershell,rabbitmq,raspberrypi,redis,stackoverflow,cassandra,vscode,visualstudio,discord,prometheus,notion" />
