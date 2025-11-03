@@ -1,20 +1,17 @@
 # `🔋Development Stack`
-
+---
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,mysql,github,cmake,cpp,cs,c,zig,java,go,rust,mongodb,postgresql,docker,arduino,postman,git,gmail,grafana,powershell,rabbitmq,raspberrypi,redis,stackoverflow,cassandra,vscode,visualstudio,discord,prometheus,notion" />
   </a>
 </p>
-
----
-
 <div align="center">
   <a href="https://github.com/llsavelino">
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llsavelino&theme=dracula&hide_border=true&layout=compact"/>
   </a>
 </div>
 
-<div align="center"><h4><strong style="color: blue;"><p>🎯 Areas of Activity</p></h4></div>
+### `🎯 Areas of Activity`
 
 ## 🔧 `Low Level Programming`  
 - 🔹 Development of drivers and minimalist operating systems  
