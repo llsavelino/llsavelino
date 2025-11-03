@@ -14,12 +14,6 @@
   </a>
 </div>
 
-<!-- Snake animation -->
-<div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</div>
-
-
 <div align="center"><h4><strong style="color: blue;"><p>🎯 Areas of Activity</p></h4></div>
 
 ## 🔧 `Low Level Programming`  
@@ -68,6 +62,7 @@
 <div align="center">
   <a href="https://github.com/llsavelino">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=llsavelino&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=true&show_owner=true"/>
+    <img width="35%" src="https://github-readme-streak-stats.herokuapp.com?user=llsavelino&theme=radical&mode=weekly" />
   </a>
 </div>
 
@@ -77,10 +72,3 @@ Want to talk about a project or technology? **Send me a message!**
 
 ---
 <h2 align="center">Made with 💙 by a technology enthusiast</h2>
-
-<!-- Estatísticas -->
-<div align="center">
-  <a href="https://github.com/llsavelino">
-    <img width="35%" src="https://github-readme-streak-stats.herokuapp.com?user=llsavelino&theme=radical&mode=weekly" />
-  </a>
-</div>
