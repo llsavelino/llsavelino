@@ -10,9 +10,9 @@
   </a>
 </div>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=douglastenfen&show_icons=true&theme=transparent&hide_title=true&hide_rank=false&card_width=400" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=llsavelino&show_icons=true&theme=transparent&hide_title=true&hide_rank=false&card_width=400" alt="GitHub Stats">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglastenfen&layout=compact&langs_count=6&theme=transparent&card_width=400" alt="Linguagens Mais Usadas">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=llsavelino&layout=compact&langs_count=6&theme=transparent&card_width=400" alt="Linguagens Mais Usadas">
 </p>
 
 ### `🎯 Areas of Activity`
