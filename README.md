@@ -7,7 +7,6 @@
 <div align="center">
   <a href="https://github.com/llsavelino">
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llsavelino&theme=dracula&hide_border=true&layout=compact"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=llsavelino&layout=compact&langs_count=6&theme=transparent&card_width=400" alt="Linguagens Mais Usadas">
   </a>
 </div>
 
