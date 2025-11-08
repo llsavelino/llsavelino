@@ -21,7 +21,7 @@
 
 ---
 
-## ⚙️ `Embedded Systems`  
+## ⚙️ `Embedded Systems & Automation Engineering`  
 - 🔺 Firmware engineering for IoT and edge devices  
 - 🔺 Precise hardware control and real-time responsiveness  
 - 🔺 Microcontroller programming |:| Sensor integration and data acquisition  
@@ -47,13 +47,6 @@
 - 🛠️ PLC programming |:| SCADA integration |:| HMI interface development  
 - 🛠️ Industrial robotics |:| Production line automation and optimization  
 - 🛠️ Machine-to-machine (M2M) communication |:| Real-time control systems  
-
----
-
-## ⚙️ `Automation Engineering`  
-- 🤖 End-to-end automation for agricultural and industrial environments  
-- 🤖 Sensor and actuator orchestration |:| Control logic and feedback systems  
-- 🤖 Remote monitoring |:| Edge computing for autonomous decision-making  
 
 ---
 ### 📫 `Contact`  
