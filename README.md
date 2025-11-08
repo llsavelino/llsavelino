@@ -6,9 +6,9 @@
 </p>
 <div align="center">
   <a href="https://github.com/llsavelino">
-    <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llsavelino&theme=dracula&hide_border=true&layout=compact"/>
-    <img height="100em" src="https://github-readme-stats.vercel.app/api?username=llsavelino&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=true&show_owner=true"/>
-    <img height="100em" src="https://github-readme-streak-stats.herokuapp.com?user=llsavelino&theme=radical&mode=weekly" />
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llsavelino&theme=dracula&hide_border=true&layout=compact"/>
+    <img height="120em" src="https://github-readme-stats.vercel.app/api?username=llsavelino&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=true&show_owner=true"/>
+    <img height="120em" src="https://github-readme-streak-stats.herokuapp.com?user=llsavelino&theme=radical&mode=weekly" />
   </a>
 </div>
 
