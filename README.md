@@ -1,9 +1,34 @@
 # `🔋Development Stack`
+## 🚀 Linguagens de Programação
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,mysql,github,cmake,cpp,cs,c,zig,java,go,rust,mongodb,postgresql,docker,arduino,postman,git,gmail,grafana,powershell,rabbitmq,raspberrypi,redis,stackoverflow,cassandra,vscode,visualstudio,discord,prometheus,notion" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=py,cpp,cs,c,zig,java,go,rust" />
 </p>
+
+## 🛠️ Ferramentas
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,git,cmake,docker,postman,vscode,visualstudio,powershell" />
+</p>
+
+## 🗄️ Banco de Dados
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis,cassandra" />
+</p>
+
+## ⚙️ Infraestrutura / Hardware
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+</p>
+
+## 📊 Monitoramento / Mensageria
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=grafana,prometheus,rabbitmq" />
+</p>
+
+## 🌐 Outros
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=gmail,stackoverflow,discord,notion" />
+</p>
+
 
 ### `🎯 Areas of Activity`
 
