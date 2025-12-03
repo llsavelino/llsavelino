@@ -4,13 +4,6 @@
     <img src="https://skillicons.dev/icons?i=py,mysql,github,cmake,cpp,cs,c,zig,java,go,rust,mongodb,postgresql,docker,arduino,postman,git,gmail,grafana,powershell,rabbitmq,raspberrypi,redis,stackoverflow,cassandra,vscode,visualstudio,discord,prometheus,notion" />
   </a>
 </p>
-<div align="center">
-  <a href="https://github.com/llsavelino">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llsavelino&theme=dracula&hide_border=true&layout=compact"/>
-    <img height="120em" src="https://github-readme-stats.vercel.app/api?username=llsavelino&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=true&show_owner=true"/>
-    <img height="120em" src="https://github-readme-streak-stats.herokuapp.com?user=llsavelino&theme=radical&mode=weekly" />
-  </a>
-</div>
 
 ### `🎯 Areas of Activity`
 
