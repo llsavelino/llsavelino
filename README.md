@@ -1,5 +1,5 @@
 # `🔋Development Stack`
-## 🚀 Linguagens de Programação
+## 💻 Linguagens de Programação
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,cpp,cs,c,zig,java,go,rust" />
 </p>
@@ -14,7 +14,7 @@
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis,cassandra" />
 </p>
 
-## ⚙️ Infraestrutura / Hardware
+## 🐛 Infraestrutura / Hardware
 <p align="center">
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
 </p>
