@@ -6,7 +6,7 @@
 
 ## 🛠️ Ferramentas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,git,cmake,docker,postman,vscode,visualstudio,powershell" />
+  <img src="https://skillicons.dev/icons?i=github,git,cmake,docker,vscode,visualstudio,powershell" />
 </p>
 
 ## 🗄️ Banco de Dados
@@ -19,9 +19,9 @@
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
 </p>
 
-## 📊 Monitoramento / Mensageria
+## 📊 Mensageria
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=grafana,prometheus,rabbitmq" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq" />
 </p>
 
 ## 🌐 Outros
