@@ -1,30 +1,30 @@
-# `🔋Development Stack`
-## 💻 Linguagens de Programação
+## `🔋Development Stack`
+### 💻 LPs
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,cpp,cs,c,zig,java,go,rust" />
 </p>
 
-## 🛠️ Ferramentas
+### 🛠️ Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=github,git,cmake,docker,vscode,visualstudio,powershell" />
 </p>
 
-## 🗄️ Banco de Dados
+### 🗄️ DB
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis,cassandra" />
 </p>
 
-## 🐛 Infraestrutura / Hardware
+### 🐛 Infra / Hardware
 <p align="center">
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
 </p>
 
-## 📊 Mensageria
+### 📊 Msg
 <p align="center">
   <img src="https://skillicons.dev/icons?i=rabbitmq" />
 </p>
 
-## 🌐 Outros
+### 🌐 ...
 <p align="center">
   <img src="https://skillicons.dev/icons?i=gmail,stackoverflow,discord,notion" />
 </p>
@@ -46,7 +46,7 @@
 
 ---
 
-## 🖥️ `Backend Development`  
+## 🖥️ `Backend Development | Web Development`  
 - 🌐 High-performance APIs |:| Distributed systems
 - 🌐 Microservices and container orchestration
 - 🌐 SQL & NoSQL databases |:| Asynchronous programming
@@ -54,14 +54,10 @@
 
 ---
 
-## 🌱 `Agricultural Programming`  
+## 🌱|🏭 `Agricultural Programming & Industrial Programming`  
 - 🌾 Smart irrigation systems |:| Climate automation |:| Crop health monitoring  
 - 🌾 Sensor networks for soil, humidity, and temperature analysis  
-- 🌾 IoT-based solutions for precision agriculture and farm management  
-
----
-
-## 🏭 `Industrial Programming`  
+- 🌾 IoT-based solutions for precision agriculture and farm management   
 - 🛠️ PLC programming |:| SCADA integration |:| HMI interface development  
 - 🛠️ Industrial robotics |:| Production line automation and optimization  
 - 🛠️ Machine-to-machine (M2M) communication |:| Real-time control systems  
