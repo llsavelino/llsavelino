@@ -29,9 +29,6 @@
   <img src="https://skillicons.dev/icons?i=gmail,stackoverflow,discord,notion" />
 </p>
 
-
-### `🎯 Areas of Activity`
-
 ## 🔧 `Low Level Programming`  
 - 🔹 Development of drivers and minimalist operating systems  
 - 🔹 Critical performance optimization for hardware-level tasks  
