@@ -1,30 +1,30 @@
 ## `🔋Development Stack`
-### 💻 LPs
+#### 💻 LPs
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,cpp,cs,c,zig,java,go,rust" />
 </p>
 
-### 🛠️ Tools
+#### 🛠️ Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=github,git,cmake,docker,vscode,visualstudio,powershell" />
 </p>
 
-### 🗄️ DB
+#### 🗄️ DB
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis,cassandra" />
 </p>
 
-### 🐛 Infra / Hardware
+#### 🐛 Infra / Hardware
 <p align="center">
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
 </p>
 
-### 📊 Msg
+#### 📊 Msg
 <p align="center">
   <img src="https://skillicons.dev/icons?i=rabbitmq" />
 </p>
 
-### 🌐 ...
+#### 🌐 ...
 <p align="center">
   <img src="https://skillicons.dev/icons?i=gmail,stackoverflow,discord,notion" />
 </p>
@@ -63,6 +63,3 @@
 ### 📫 `Contact`  
 Want to talk about a project or technology? **Send me a message!**  
 ✉️ [aves06914@gmail.com](mailto:aves06914@gmail.com) | [savelino852@gmail.com](mailto:savelino852@gmail.com) | [avelleva707@gmail.com](mailto:avelleva707@gmail.com)
-
----
-<h2 align="center">Made with 💙 by a technology enthusiast</h2>
