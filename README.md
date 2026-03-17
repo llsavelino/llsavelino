@@ -6,7 +6,7 @@
 
 #### 🛠️ Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,git,cmake,docker,vscode,visualstudio,powershell" />
+  <img src="https://skillicons.dev/icons?i=github,git,cmake,docker,powershell" />
 </p>
 
 #### 🗄️ DB
