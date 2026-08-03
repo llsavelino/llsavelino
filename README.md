@@ -65,7 +65,3 @@ Want to talk about technology, low-level systems, or new projects? Feel free to 
   - [avelleva707@gmail.com](mailto:avelleva707@gmail.com)
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</div>
