@@ -19,7 +19,7 @@
 <img src="https://skillicons.dev/icons?i=prisma,mysql,mongodb,postgresql,redis,cassandra,rabbitmq" alt="DB and Messaging" />
 
 ### 🧠 Knowledge
-<img src="https://skillicons.dev/icons?i=js,ts,zig,rust,aws,spring,npm,graphql,grafana" alt="Knowledge" />
+<img src="https://skillicons.dev/icons?i=js,ts,zig,rust,aws,spring,npm,graphql,grafana,kubernetes,debian,arch" alt="Knowledge" />
 
 </div>
 
