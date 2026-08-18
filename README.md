@@ -10,16 +10,16 @@
 <div align="center">
 
 ### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=py,cpp,cs,c,zig,java,go,rust" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=py,cpp,cs,c,zig,java,go,rust,kotlin" alt="Languages" />
 
 ### 🛠️ Tools & Infrastructure
-<img src="https://skillicons.dev/icons?i=github,git,cmake,docker,powershell,arduino,raspberrypi,linux" alt="Tools and Infra" />
+<img src="https://skillicons.dev/icons?i=github,git,cmake,docker,powershell,arduino,raspberrypi,linux,debian" alt="Tools and Infra" />
 
 ### 🗄️ Databases & Messaging
-<img src="https://skillicons.dev/icons?i=prisma,mysql,mongodb,postgresql,redis,cassandra,rabbitmq" alt="DB and Messaging" />
+<img src="https://skillicons.dev/icons?i=prisma,mysql,mongodb,postgresql,redis,cassandra,rabbitmq,kafka" alt="DB and Messaging" />
 
 ### 🧠 Knowledge
-<img src="https://skillicons.dev/icons?i=js,ts,zig,rust,aws,spring,npm,graphql,grafana,kubernetes,debian,arch,kali,kafka,kotlin,julia,lua" alt="Knowledge" />
+<img src="https://skillicons.dev/icons?i=js,ts,zig,rust,aws,spring,npm,graphql,grafana,kubernetes,arch,kali,julia,lua" alt="Knowledge" />
 
 </div>
 
