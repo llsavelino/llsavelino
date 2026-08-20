@@ -9,20 +9,20 @@
 
 <div align="center">
 
-### 💻 Programming Languages
+### 💻 Programming Languages 💡
 <img src="https://skillicons.dev/icons?i=py,cs,java,go,kotlin" alt="Languages" />
 
 ### 🎲 Hobby 🃏
 <img src="https://skillicons.dev/icons?i=cpp,c,zig,rust,haskell,matlab" alt="Languages" />
 
-### 🛠️ Tools & Infrastructure
+### 🛠️ Tools & Infrastructure ⚙️
 <img src="https://skillicons.dev/icons?i=github,git,jenkins,docker,powershell,bash,arduino,raspberrypi,linux,debian,ubuntu,mint,windows,md" alt="Tools and Infra" />
 
-### 🗄️ Databases & Messaging
+### 🗄️ Databases & Messaging 💾
 <img src="https://skillicons.dev/icons?i=prisma,mysql,mongodb,postgresql,redis,cassandra,rabbitmq,kafka" alt="DB and Messaging" />
 
-### 🧠 Knowledge
-<img src="https://skillicons.dev/icons?i=js,ts,zig,rust,aws,spring,npm,graphql,grafana,kubernetes,arch,kali,redhat,julia,lua" alt="Knowledge" />
+### 🧠 Knowledge 🧮
+<img src="https://skillicons.dev/icons?i=js,ts,zig,rust,aws,spring,npm,graphql,grafana,kubernetes,arch,kali,redhat,prometheus,lua" alt="Knowledge" />
 
 </div>
 
