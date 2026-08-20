@@ -3,8 +3,6 @@
   <p align="center">Software Engineer specializing in Low-Level Programming, Embedded Systems, and High-Performance Backend Architecture.</p>
 </div>
 
----
-
 ## 🔋 Tech Stack
 
 <div align="center">
