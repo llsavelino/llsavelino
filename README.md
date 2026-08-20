@@ -33,7 +33,7 @@
 <table width="100%">
   <tr>
     <td width="33%" valign="top">
-      <h3>🔧 Low Level</h3>
+      <h3><strong>Low Level</strong></h3>
       <ul>
         <li>Driver development and minimalist operating systems</li>
         <li>Critical performance optimization for hardware tasks</li>
@@ -41,7 +41,7 @@
       </ul>
     </td>
     <td width="33%" valign="top">
-      <h3>⚙️ Embedded Systems</h3>
+      <h3><strong>Embedded Systems</strong>strong></h3>
       <ul>
         <li>Firmware engineering for IoT and edge devices</li>
         <li>Precise hardware control and real-time responsiveness</li>
@@ -49,7 +49,7 @@
       </ul>
     </td>
     <td width="33%" valign="top">
-      <h3>🖥️ Backend</h3>
+      <h3><strong>Backend</strong></h3>
       <ul>
         <li>High-performance APIs & distributed systems</li>
         <li>Microservices and asynchronous messaging</li>
