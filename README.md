@@ -10,7 +10,10 @@
 <div align="center">
 
 ### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=py,cpp,cs,c,zig,java,go,rust,kotlin" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=py,cs,java,go,kotlin" alt="Languages" />
+
+### 🎲 Hobby 🃏
+<img src="https://skillicons.dev/icons?i=cpp,c,zig,rust,asm" alt="Languages" />
 
 ### 🛠️ Tools & Infrastructure
 <img src="https://skillicons.dev/icons?i=github,git,jenkins,docker,powershell,bash,arduino,raspberrypi,linux,debian,ubuntu" alt="Tools and Infra" />
