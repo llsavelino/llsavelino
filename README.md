@@ -8,7 +8,7 @@
 <div align="center">
 
 ### 💻 Programming Languages 💡
-<img src="https://skillicons.dev/icons?i=py,cs,java,go,kotlin" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=py,cs,java,go,kotlin,js,ts" alt="Languages" />
 
 ### 🎲 Hobby 🃏
 <img src="https://skillicons.dev/icons?i=cpp,c,zig,rust,haskell,matlab" alt="Languages" />
@@ -20,7 +20,7 @@
 <img src="https://skillicons.dev/icons?i=prisma,mysql,mongodb,postgresql,redis,cassandra,rabbitmq,kafka" alt="DB and Messaging" />
 
 ### 🧠 Knowledge 🧮
-<img src="https://skillicons.dev/icons?i=js,ts,zig,rust,aws,spring,npm,graphql,grafana,kubernetes,arch,kali,redhat,prometheus,lua" alt="Knowledge" />
+<img src="https://skillicons.dev/icons?i=zig,rust,aws,spring,npm,graphql,grafana,kubernetes,arch,kali,redhat,prometheus,lua" alt="Knowledge" />
 
 </div>
 
