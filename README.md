@@ -41,7 +41,7 @@
       </ul>
     </td>
     <td width="33%" valign="top">
-      <h3><strong>Embedded Systems</strong>strong></h3>
+      <h3><strong>Embedded Systems</strong></h3>
       <ul>
         <li>Firmware engineering for IoT and edge devices</li>
         <li>Precise hardware control and real-time responsiveness</li>
