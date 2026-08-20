@@ -13,10 +13,10 @@
 <img src="https://skillicons.dev/icons?i=py,cs,java,go,kotlin" alt="Languages" />
 
 ### 🎲 Hobby 🃏
-<img src="https://skillicons.dev/icons?i=cpp,c,zig,rust,asm" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=cpp,c,zig,rust,haskell,matlab" alt="Languages" />
 
 ### 🛠️ Tools & Infrastructure
-<img src="https://skillicons.dev/icons?i=github,git,jenkins,docker,powershell,bash,arduino,raspberrypi,linux,debian,ubuntu" alt="Tools and Infra" />
+<img src="https://skillicons.dev/icons?i=github,git,jenkins,docker,powershell,bash,arduino,raspberrypi,linux,debian,ubuntu,mint,windows,md" alt="Tools and Infra" />
 
 ### 🗄️ Databases & Messaging
 <img src="https://skillicons.dev/icons?i=prisma,mysql,mongodb,postgresql,redis,cassandra,rabbitmq,kafka" alt="DB and Messaging" />
