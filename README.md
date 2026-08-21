@@ -14,13 +14,13 @@
 <img src="https://skillicons.dev/icons?i=cpp,c,kotlin,js" alt="Languages" />
 
 ### 🛠️ Tools & Infrastructure ⚙️
-<img src="https://skillicons.dev/icons?i=github,git,jenkins,docker,powershell,bash,arduino,raspberrypi,linux,windows,md" alt="Tools and Infra" />
+<img src="https://skillicons.dev/icons?i=github,git,npm,jenkins,docker,powershell,bash,arduino,raspberrypi,linux,windows" alt="Tools and Infra" />
 
 ### 🗄️ Databases & Messaging 💾
 <img src="https://skillicons.dev/icons?i=prisma,mysql,mongodb,postgresql,redis,cassandra,rabbitmq,kafka" alt="DB and Messaging" />
 
 ### 🧠 Knowledge 🧮
-<img src="https://skillicons.dev/icons?i=aws,spring,npm,graphql,grafana,kubernetes,prometheus,lua,zig,rust,haskell,matlab" alt="Knowledge" />
+<img src="https://skillicons.dev/icons?i=aws,spring,graphql,grafana,kubernetes,prometheus,lua,zig,rust,haskell,matlab" alt="Knowledge" />
 
 </div>
 
