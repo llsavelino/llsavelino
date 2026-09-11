@@ -64,8 +64,6 @@
 Want to talk about technology, low-level systems, or new projects? Feel free to reach out:
 
 - ✉️ **Primary Emails:** 
-  - [aves06914@gmail.com](mailto:aves06914@gmail.com)
-  - [savelino852@gmail.com](mailto:savelino852@gmail.com)
-  - [avelleva707@gmail.com](mailto:avelleva707@gmail.com)
+  - [aves06914@gmail.com](mailto:aves06914@gmail.com) | [savelino852@gmail.com](mailto:savelino852@gmail.com) | [avelleva707@gmail.com](mailto:avelleva707@gmail.com)
 
 ---
