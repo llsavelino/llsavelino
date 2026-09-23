@@ -7,19 +7,19 @@
 
 <div align="center">
 
-### 💻 PKG main Programming Languages 💡
+### 💻 PKG main Programming Languages
 <img src="https://skillicons.dev/icons?i=py,cs,java,go,ts" alt="Languages" />
 
-### 🎲 PKG sub Programming Languages 🃏
+### 🎲 PKG sub Programming Languages
 <img src="https://skillicons.dev/icons?i=cpp,c,kotlin,js,lua,zig,rust" alt="Languages" />
 
-### 🛠️ Tools & Infrastructure ⚙️
+### 🛠️ Tools & Infrastructure
 <img src="https://skillicons.dev/icons?i=github,git,npm,jenkins,docker,powershell,bash,arduino,raspberrypi,linux,windows" alt="Tools and Infra" />
 
-### 🗄️ Databases & Messaging 💾
+### 🗄️ Databases & Messaging
 <img src="https://skillicons.dev/icons?i=prisma,mysql,mongodb,postgresql,redis,cassandra,rabbitmq,kafka" alt="DB and Messaging" />
 
-### 🧠 Knowledge 🧮
+### 🧠 Knowledge
 <img src="https://skillicons.dev/icons?i=aws,spring,graphql,grafana,kubernetes,prometheus" alt="Knowledge" />
 
 </div>
