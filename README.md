@@ -14,7 +14,7 @@
 <img src="https://skillicons.dev/icons?i=cpp,c,kotlin,js,lua,zig,rust" alt="Languages" />
 
 ### 🛠️ Tools & Infrastructure
-<img src="https://skillicons.dev/icons?i=github,git,npm,jenkins,docker,powershell,bash,arduino,raspberrypi,linux,windows" alt="Tools and Infra" />
+<img src="https://skillicons.dev/icons?i=github,git,npm,jenkins,docker,,arduino,raspberrypi,linux,windows" alt="Tools and Infra" />
 
 ### 🗄️ Databases & Messaging
 <img src="https://skillicons.dev/icons?i=prisma,mysql,mongodb,postgresql,redis,cassandra,rabbitmq,kafka" alt="DB and Messaging" />
