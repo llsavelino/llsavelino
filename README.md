@@ -11,16 +11,13 @@
 <img src="https://skillicons.dev/icons?i=py,cs,java,go,ts" alt="Languages" />
 
 ### 🎲 PKG sub Programming Languages
-<img src="https://skillicons.dev/icons?i=cpp,c,kotlin,js,lua,zig,rust" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=cpp,c,kotlin,zig,rust" alt="Languages" />
 
 ### 🛠️ Tools & Infrastructure
 <img src="https://skillicons.dev/icons?i=github,git,npm,jenkins,docker,arduino,raspberrypi,linux,windows" alt="Tools and Infra" />
 
 ### 🗄️ Databases & Messaging
 <img src="https://skillicons.dev/icons?i=prisma,mysql,mongodb,postgresql,redis,cassandra,rabbitmq,kafka" alt="DB and Messaging" />
-
-### 🧠 Knowledge
-<img src="https://skillicons.dev/icons?i=aws,spring,graphql,grafana,kubernetes,prometheus" alt="Knowledge" />
 
 </div>
 
