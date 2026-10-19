@@ -7,11 +7,8 @@
 
 <div align="center">
 
-### 💻 PKG main Programming Languages
-<img src="https://skillicons.dev/icons?i=py,cs,java,go,ts" alt="Languages" />
-
-### 🎲 PKG sub Programming Languages
-<img src="https://skillicons.dev/icons?i=cpp,c,kotlin,zig,rust" alt="Languages" />
+### 🎲 Programming Languages
+<img src="https://skillicons.dev/icons?i=py,cs,java,go,ts,cpp,c,kotlin,zig,rust" alt="Languages" />
 
 ### 🛠️ Tools & Infrastructure
 <img src="https://skillicons.dev/icons?i=github,git,npm,jenkins,docker,arduino,raspberrypi,linux,windows" alt="Tools and Infra" />
